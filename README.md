@@ -3,7 +3,7 @@ Olá
 Me chamo Emerson
 Trabalho com Infraestrutura de tecnologia da informação, mais especificamente como gerente de tecnologia, avaliando as melhores soluções de mercado para colaboradores e empresas. Também presto suporte e consultoria a ERP SAP BUSSINES ONE, SQLSERVER, ORACLE SQL, ACTIVE DIRECTORY Entre outras soluções usadas no mercado.
 
-![Emerson andre](https://emersonandre.github.io&show_icons=true&theme=onedark)
+![Emerson andre](https://emersonandre.github.io)
 
 ![emerson andre](https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=onedark)
 
