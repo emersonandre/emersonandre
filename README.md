@@ -1,7 +1,7 @@
 Olá
 ================================================    
-Me chamo Emerson
-Trabalho com Infraestrutura de tecnologia da informação, mais especificamente como gerente de tecnologia, avaliando as melhores soluções de mercado para colaboradores e empresas. Também presto suporte e consultoria a ERP SAP BUSSINES ONE, SQLSERVER, ORACLE SQL, ACTIVE DIRECTORY Entre outras soluções usadas no mercado.
+Me chamo Emerson,<br>
+Trabalho com Infraestrutura de tecnologia da informação, avaliando as melhores soluções de mercado para colaboradores e empresas. Também presto suporte e consultoria a ERP SAP BUSSINES ONE, SQLSERVER, ORACLE SQL, ACTIVE DIRECTORY Entre outras soluções comumente usadas no mercado.
 
 https://emersonandre.github.io
 
