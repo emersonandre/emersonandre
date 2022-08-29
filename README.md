@@ -8,11 +8,8 @@ https://emersonandre.github.io
 <div>
 <a href="https://github.com/emersonandre">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandre&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-![emerson andre](https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=onedark)
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
