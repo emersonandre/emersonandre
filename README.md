@@ -12,6 +12,14 @@ https://emersonandre.github.io
 </div>
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+  
+  
 ![Snake animation](https://github.com/emersonandre/emersonandre/blob/output/github-contribution-grid-snake.svg)
   
 <div>
