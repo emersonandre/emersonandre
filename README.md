@@ -31,7 +31,7 @@ https://emersonandre.github.io
           
           
   
-![Snake animation](https://github.com/emersonandre/emersonandre/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/emersonandre/emersonandre/blob/output/github-contribution-grid-snake.svg) -->
   
 ### Contatos:          
 <div>
