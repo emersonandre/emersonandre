@@ -12,7 +12,8 @@ https://emersonandre.github.io
 </div>
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
-
+![Snake animation](https://github.com/seu-usuário-aqui/emersonandre/blob/output/github-contribution-grid-snake.svg)
+  
 <div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/emersonandree" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
