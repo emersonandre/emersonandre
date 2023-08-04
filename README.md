@@ -28,7 +28,7 @@ https://emersonandre.github.io
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
           
-          
+ <figure><embed src="https://wakatime.com/share/@de487e43-5846-4ab7-b4c6-3bfcdd37d54b/c03f4ece-8e62-4159-8e96-1b28686675b5.svg"></embed></figure>         
   
 <!-- ![Snake animation](https://github.com/emersonandre/emersonandre/blob/output/github-contribution-grid-snake.svg) -->
   
