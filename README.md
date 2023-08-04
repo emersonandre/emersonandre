@@ -12,7 +12,6 @@ https://emersonandre.github.io
 </div>
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
-<img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19475%26project%3D%26in%3D0">
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19475%26project%3D%26in%3D0)](https://codetime.dev)
 
 ### Ferramentas e Tecnologias:
