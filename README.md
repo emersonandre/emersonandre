@@ -11,6 +11,7 @@ https://emersonandre.github.io
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<a href="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime"></a>
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/527?logoColor=white%26project=%26recentMS=0%26showProject=false)
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19475%26project%3D%26in%3D0)](https://codetime.dev)
 
