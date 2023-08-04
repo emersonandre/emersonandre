@@ -1,7 +1,7 @@
 Olá
 ================================================    
 Me chamo Emerson,<br>
-Trabalho com Infraestrutura de tecnologia da informação, avaliando as melhores soluções de mercado para colaboradores e empresas. Também presto suporte e consultoria a ERP SAP BUSSINES ONE, SQLSERVER, ORACLE SQL, ACTIVE DIRECTORY Entre outras soluções comumente usadas no mercado.
+Sou um apaixonado por tecnologia e um profissional de TI com experiência sólida em liderança e desenvolvimento de software. Meu foco está em impulsionar a inovação através de soluções eficientes, sustentáveis e orientadas para o futuro, com especialização em aplicações para a Indústria 4.0 e sistemas embarcados.
 
 https://emersonandre.github.io
 
