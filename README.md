@@ -12,7 +12,7 @@ https://emersonandre.github.io
 </div>
 
 <div><b>Api4.0</b></div>
-<a href="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime"></a>
+<a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime"></a>
 
 <div><b>Sync4.0</b></div>
 <a href="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg" alt="wakatime"></a>
