@@ -7,7 +7,6 @@ https://emersonandre.github.io
 
 <div>
 <a href="https://github.com/emersonandre">
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&theme=onedark)]          
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandre&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
