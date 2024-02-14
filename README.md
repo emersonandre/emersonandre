@@ -5,7 +5,7 @@ Sou um apaixonado por tecnologia e um profissional de TI com experiência sólid
 
 https://emersonandre.github.io
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?emersonandre=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?emersonandre=ffflabs)](https://github.com/emersonandre/github-readme-stats)
 
 <div>
 <a href="https://github.com/emersonandre">
