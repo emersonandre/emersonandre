@@ -11,7 +11,7 @@ https://emersonandre.github.io
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div class="row" >
+
 (https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&theme=compact)
 
 <div><b>Api4.0</b></div>
@@ -20,7 +20,6 @@ https://emersonandre.github.io
 <div><b>Sync4.0</b></div>
 <a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg" alt="wakatime"></a>
 
-</div>
 
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
