@@ -12,7 +12,7 @@ https://emersonandre.github.io
 </div>
 
 
-(https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&theme=compact)
+[!(https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&theme=compact)]
 
 <div><b>Api4.0</b></div>
 <a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime"></a>
