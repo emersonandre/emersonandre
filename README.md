@@ -7,22 +7,17 @@ https://emersonandre.github.io
 
 <div>
 <a href="https://github.com/emersonandre">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandre&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandre&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
-<div class="row">
-          <div class="col-6">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&langs_count=8&theme=dracula&show_icons=true&layout=compact"/>
-          </div>
-          <div class="col-6">
-          <div><b>Api4.0</b></div>
-          <a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime">             </a>
-          
-          <div><b>Sync4.0</b></div>
-          <a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg" alt="wakatime"></a>
-          </div>
 </div>
+          
+
+<div><b>Api4.0</b></div>
+<a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=fot-the-badge" alt="wakatime"></a>        
+<div><b>Sync4.0</b></div>
+<a href="https://wakatime.com/@emersonandre"><img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg" alt="wakatime"></a>
+
 
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
