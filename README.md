@@ -5,11 +5,21 @@ Sou um apaixonado por tecnologia e um profissional de TI com experiência sólid
 
 https://emersonandre.github.io
 
-<div>
-<a href="https://github.com/emersonandre">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonandre&layout=compact&langs_count=7&theme=dracula&count_private=true"/> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&langs_count=8&theme=dracula&show_icons=true&layout=compact"/>          
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://github.com/emersonandre">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&langs_count=8&theme=dracula&show_icons=true&layout=compact"
+      alt="WakaTime Stats"
+    />
+  </a>
+  <a href="https://github.com/emersonandre">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
 </div>
           
 <table>
