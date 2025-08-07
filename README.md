@@ -1,10 +1,23 @@
-Olá
-================================================    
-Me chamo Emerson,<br>
-Sou um apaixonado por tecnologia e um profissional de TI com experiência sólida em liderança e desenvolvimento de software. Meu foco está em impulsionar a inovação através de soluções eficientes, sustentáveis e orientadas para o futuro, com especialização em aplicações para a Indústria 4.0 e sistemas embarcados.
+# Olá, eu sou o Emerson 👋
+
+Sou um profissional de TI apaixonado por tecnologia, com sólida experiência em liderança de equipes e desenvolvimento de software. Minha missão é impulsionar a inovação por meio de soluções eficientes, sustentáveis e orientadas para o futuro.
+
+## 🚀 Áreas de Atuação
+- **Indústria 4.0**: projetos de automação, integração de CLPs e sistemas embarcados.  
+- **Desenvolvimento Backend & APIs**: Api4.0, Sync4.0 e integrações robustas.  
+- **Ferramentas e Bots**: criação de ferramentas de produtividade e automação para WhatsApp.  
+- **Sistemas Embarcados**: design e implantação de firmware para controladores industriais.
+
+## 🛠 Tecnologias & Ferramentas
+- Linguagens: Python, C/C++, Structured Text (PLC), JavaScript/TypeScript  
+- Plataformas: Proxmox VE, Docker, Kubernetes, TIA Portal  
+- Infraestrutura: Active Directory, Windows Server, Debian/Linux  
+- DevOps: Git, CI/CD, Jenkins, GitHub Actions  
+- Monitoramento de produtividade: WakaTime
 
 https://emersonandre.github.io
 
+## 📈 Estatísticas Recentes
 <div style="display: flex; align-items: center; gap: 1rem;">
   <a href="https://github.com/emersonandre">
     <img
