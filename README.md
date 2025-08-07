@@ -18,23 +18,6 @@ Sou um profissional de TI apaixonado por tecnologia, com sólida experiência em
 https://emersonandre.github.io
 
 ## 📈 Estatísticas Recentes
-<div style="display: flex; align-items: center; gap: 1rem;">
-  <a href="https://github.com/emersonandre">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&langs_count=8&theme=dracula&show_icons=true&layout=compact"
-      alt="WakaTime Stats"
-    />
-  </a>
-  <a href="https://github.com/emersonandre">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
-    />
-  </a>
-</div>
-          
 <table>
   <tr>
     <td align="center">
@@ -63,7 +46,23 @@ https://emersonandre.github.io
     </td>
   </tr>
 </table>
-
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://github.com/emersonandre">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=emersonandre&langs_count=8&theme=dracula&show_icons=true&layout=compact"
+      alt="WakaTime Stats"
+    />
+  </a>
+  <a href="https://github.com/emersonandre">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+</div>
+          
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
