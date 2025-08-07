@@ -15,7 +15,7 @@ https://emersonandre.github.io
 <table>
   <tr>
     <td align="center">
-      <b>Horas Computadas Programação</b><br/>
+      Horas Computadas Programação<br/>
       <a href="https://wakatime.com/@de487e43-5846-4ab7-b4c6-3bfcdd37d54b">
         <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b.svg" alt="Total time coded"/>
       </a>
