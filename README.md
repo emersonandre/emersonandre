@@ -12,18 +12,34 @@ https://emersonandre.github.io
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonandre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
-## Horas Computadas Programação
-
-**Horas Computadas Programação**  
-[![Total time coded since Aug 3 2023](https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b.svg)](https://wakatime.com/@de487e43-5846-4ab7-b4c6-3bfcdd37d54b)
-**Api4.0**  
-[![Api4.0](https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=for-the-badge)](https://wakatime.com/@emersonandre)
-**WhatsApp_tools**  
-[![WhatsApp_tools](https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/eec15161-2615-439c-b95f-e30e215f66f4.svg?style=for-the-badge)](https://wakatime.com/@emersonandre)
-**Sync4.0**  
-[![Sync4.0](https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg)](https://wakatime.com/@emersonandre)
-
-
+<table>
+  <tr>
+    <td align="center">
+      <b>Horas Computadas Programação</b><br/>
+      <a href="https://wakatime.com/@de487e43-5846-4ab7-b4c6-3bfcdd37d54b">
+        <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b.svg" alt="Total time coded"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Api4.0</b><br/>
+      <a href="https://wakatime.com/@emersonandre">
+        <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/39e0c006-1833-4e4b-99ff-a8ced305b774.svg?style=for-the-badge" alt="Api4.0"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>WhatsApp_tools</b><br/>
+      <a href="https://wakatime.com/@emersonandre">
+        <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/eec15161-2615-439c-b95f-e30e215f66f4.svg?style=for-the-badge" alt="WhatsApp_tools"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Sync4.0</b><br/>
+      <a href="https://wakatime.com/@emersonandre">
+        <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/5d7e2353-1399-40fd-8c56-e43e10682b21.svg" alt="Sync4.0"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
