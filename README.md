@@ -34,8 +34,8 @@ https://emersonandre.github.io
     </td>
     <td align="center">
       <b>WhatsApp_tools</b><br/>
-      <a href="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/eec15161-2615-439c-b95f-e30e215f66f4">
-         <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/eec15161-2615-439c-b95f-e30e215f66f4.svg" alt="wakatime">
+      <a href="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/cb7b0d14-fb25-4b37-9896-b23a9d9c5076">
+        <img src="https://wakatime.com/badge/user/de487e43-5846-4ab7-b4c6-3bfcdd37d54b/project/cb7b0d14-fb25-4b37-9896-b23a9d9c5076.svg" alt="wakatime">
       </a>
     </td>
     <td align="center">
