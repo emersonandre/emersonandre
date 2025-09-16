@@ -12,7 +12,9 @@ Sou um profissional de TI apaixonado por tecnologia, com sólida experiência em
 - Linguagens: Python, C/C++, Structured Text (PLC), JavaScript/TypeScript  
 - Plataformas: Proxmox VE, Docker, Kubernetes, TIA Portal  
 - Infraestrutura: Active Directory, Windows Server, Debian/Linux  
-- DevOps: Git, CI/CD, Jenkins, GitHub Actions  
+- DevOps: Git, CI/CD, Jenkins, GitHub Actions
+- ERP: SAP B1, Senior Sistemas, Nomus, Index
+- Banco de dados: SQLServer, POstgreSql, Oracle, Mysql
 - Monitoramento de produtividade: WakaTime
 
 https://emersonandre.github.io
