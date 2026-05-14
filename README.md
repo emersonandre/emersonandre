@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-silvestrin-293108160/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonsilvestrin@live.com)
 
-**Líder de tecnologia que constrói a ponte entre o chão de fábrica e o digital escalável.**
+**Líder de tecnologia especializado em converter operações industriais em ecossistemas digitais escaláveis e estratégicos.**
 
 > Em 10+ anos, liderei a conversão de operações industriais e fluxos de dados em produtos SaaS prontos para o mercado — gerando novas receitas, reduzindo custos de infraestrutura e acelerando decisões estratégicas com inteligência artificial.
 
